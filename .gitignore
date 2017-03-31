@@ -1,0 +1,4 @@
+data/*
+logs/events*
+logs/model*
+model
